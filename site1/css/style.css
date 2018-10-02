@@ -166,7 +166,7 @@ a img {
 }
 /*------------------------- Body ---------------------------*/
 .body {
-	background:url(../images/bg-top.png) no-repeat left top;
+	/* background:url(../images/bg-top.png) no-repeat left top; */
 	padding:19px 0 0;
 }
 .body .home {
@@ -182,13 +182,13 @@ a img {
 	position:relative;
 }
 .body .home div.featured div {
-	background:url(../images/clip-right.png) no-repeat right top;
+	/* background:url(../images/clip-right.png) no-repeat right top; */
 	margin:0;
 	position:relative;
 	z-index:1000;
 }
 .body .home div.featured div div {
-	background:url(../images/clip-left.png) no-repeat left top;
+	/* background:url(../images/clip-left.png) no-repeat left top; */
 	height:378px;
 	margin:0;
 }
@@ -225,7 +225,7 @@ a img {
 	left:180px;
 	position:relative;
 	text-indent:-9999px;
-	top:270px;
+	top:290px;
 	width:186px;
 }
 .body .home div.featured div div a:hover {
@@ -675,11 +675,12 @@ a img {
 }
 .footer div div p {
 	color:#a9b1b9;
-	float:left;
+	float:right;
 	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
 	font-size:10px;
 	line-height:16px;
 	margin:15px 0 0;
+	margin-right: 35px;
 }
 .footer div div div.connect {
 	float:left;
