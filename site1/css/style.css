@@ -618,7 +618,7 @@ a img {
 	width:inherit;
 }
 .body .about div div span, .body .about-where div div span, .body .about-how div div span, .body .contact div div span {
-	background:url(../images/clip-right.png) no-repeat right top;
+	/* background:url(../images/clip-right.png) no-repeat right top; */
 	display:block;
 	height:59px;
 	position:absolute;
