@@ -206,6 +206,7 @@ a img {
 	position:absolute;
 	top:175px;
 	width:415px;
+	font-weight: bold;
 }
 .body .home div.featured div div p a {
 	background:none;
