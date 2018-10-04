@@ -415,3 +415,7 @@ p a:hover {
 	margin: 0 0 0 23px;
 	width: 30px;
 }
+
+#contact-gmaps {
+	background-color: lightgray;
+}
