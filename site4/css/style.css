@@ -306,11 +306,12 @@ img {
 	padding: 0;
 	width: 80px;
 }
-#body.home div.footer div ul li a.product {
-	background-position: 0 -372px;
+#body.home div.footer div ul li a img {
+	width: 80px;
+	height: 44px;
 }
-#body.home div.footer div ul li a.about {
-	background-position: 0 -418px;
+#body.home div.footer div ul li a.custom {
+	background: none;
 }
 #body.home div.footer div ul li a.flavor {
 	background-position: 0 -280px;
