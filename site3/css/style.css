@@ -1,4 +1,3 @@
-/* Website template by freewebsitetemplates.com */
 @font-face {
 	font-family: 'OpenSans';
 	src: url('../fonts/OpenSans-Regular.eot');
@@ -424,4 +423,19 @@ p a:hover {
 	font: 10px/24px "Trebuchet MS", Arial, Helvetica, sans-serif;
 	text-align: center;
 	text-shadow: none;
+}
+
+#contact p {
+	text-align: center;
+}
+
+#contact-gmaps {
+	background-color: lightgray;
+}
+div.centermap {
+	text-align: center;
+}
+
+div.contact-col-spaced {
+	margin-bottom: 40px !important;
 }
