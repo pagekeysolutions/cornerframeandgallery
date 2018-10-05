@@ -84,7 +84,7 @@ img {
 #header div ul li {
 	display: inline-block;
 	*float: left; /* Needed for IE7 and old versions */
-	margin: 0 35px;
+	margin: 0 25px;
 	padding: 0;
 	position: relative;
 	width: auto;
@@ -1050,11 +1050,12 @@ img {
 	overflow: hidden;
 	padding: 0;
 	width: 240px;
+	text-align: center;
 }
 #footer div .connect a {
 	background: url(../images/icons.png) no-repeat;
-	display: block;
-	float: left;
+	display: inline-block;
+	/* float: left; */
 	height: 30px;
 	margin: 0 15px;
 	padding: 0;
@@ -1072,4 +1073,9 @@ img {
 }
 #footer div .connect a.twitter {
 	background-position: 0 -96px;
+}
+
+
+#header a.logo img {
+	margin-top: 15px !important;
 }
