@@ -838,7 +838,7 @@ img {
 	width: 160px;
 }
 #body.contact div.body {
-	background: url(../images/map.jpg) no-repeat center top #b5aaad;
+	background: url(../images/pks-map2.png) no-repeat center top #b5aaad;
 	margin: 0;
 	max-width: none;
 	padding: 0;
@@ -1079,4 +1079,8 @@ img {
 
 #header a.logo img {
 	margin-top: 15px !important;
+}
+
+div#contact-article {
+	font-family: 'roboto-regular-webfont';
 }
